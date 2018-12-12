@@ -23,7 +23,7 @@ Python packages are collections of modules (reusable code) that extend and enhan
 
 ### Попробуйте сейчас - <a href="https://gitupload.com">GtUpload.com</a>
 
-Версия = 0.0.7 <br />
+Версия = 0.0.8 <br />
 Название библиотеки = download_python_packages <br />
 Название = Download python packages <br />
 Ключевые слова = Git,  upload,  package,  repo, code extend <br />

@@ -23,7 +23,7 @@ Ne nécessite pas de logiciel spécial - cela fonctionne dans le navigateur.
 
 ### Essayez-le maintenant - <a href="https://gitupload.com">GtUpload.com</a>
 
-Version = 0.0.7 <br />
+Version = 0.0.8 <br />
 Nom de la bibliothèque = download_python_packages <br />
 Titre = Download python packages <br />
 Mots-clés = Git,  upload,  package,  repo, code extend <br />
